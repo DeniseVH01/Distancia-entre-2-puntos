@@ -1,0 +1,10 @@
+C:\Users\denis\OneDrive\Documentos\Hipotenusa C\Hipotenusa C\bin\Debug\Hipotenusa C.exe.config
+C:\Users\denis\OneDrive\Documentos\Hipotenusa C\Hipotenusa C\bin\Debug\Hipotenusa C.exe
+C:\Users\denis\OneDrive\Documentos\Hipotenusa C\Hipotenusa C\bin\Debug\Hipotenusa C.pdb
+C:\Users\denis\OneDrive\Documentos\Hipotenusa C\Hipotenusa C\obj\Debug\Hipotenusa C.csprojAssemblyReference.cache
+C:\Users\denis\OneDrive\Documentos\Hipotenusa C\Hipotenusa C\obj\Debug\Hipotenusa_C.Form1.resources
+C:\Users\denis\OneDrive\Documentos\Hipotenusa C\Hipotenusa C\obj\Debug\Hipotenusa_C.Properties.Resources.resources
+C:\Users\denis\OneDrive\Documentos\Hipotenusa C\Hipotenusa C\obj\Debug\Hipotenusa C.csproj.GenerateResource.cache
+C:\Users\denis\OneDrive\Documentos\Hipotenusa C\Hipotenusa C\obj\Debug\Hipotenusa C.csproj.CoreCompileInputs.cache
+C:\Users\denis\OneDrive\Documentos\Hipotenusa C\Hipotenusa C\obj\Debug\Hipotenusa C.exe
+C:\Users\denis\OneDrive\Documentos\Hipotenusa C\Hipotenusa C\obj\Debug\Hipotenusa C.pdb

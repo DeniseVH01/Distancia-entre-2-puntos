@@ -1,0 +1,12 @@
+C:\Users\denis\OneDrive\Documentos\Hipotenusa\Hipotenusa\bin\Debug\Hipotenusa.exe.config
+C:\Users\denis\OneDrive\Documentos\Hipotenusa\Hipotenusa\bin\Debug\Hipotenusa.exe
+C:\Users\denis\OneDrive\Documentos\Hipotenusa\Hipotenusa\bin\Debug\Hipotenusa.pdb
+C:\Users\denis\OneDrive\Documentos\Hipotenusa\Hipotenusa\bin\Debug\Hipotenusa.xml
+C:\Users\denis\OneDrive\Documentos\Hipotenusa\Hipotenusa\obj\Debug\Hipotenusa.vbprojAssemblyReference.cache
+C:\Users\denis\OneDrive\Documentos\Hipotenusa\Hipotenusa\obj\Debug\Hipotenusa.Form1.resources
+C:\Users\denis\OneDrive\Documentos\Hipotenusa\Hipotenusa\obj\Debug\Hipotenusa.Resources.resources
+C:\Users\denis\OneDrive\Documentos\Hipotenusa\Hipotenusa\obj\Debug\Hipotenusa.vbproj.GenerateResource.cache
+C:\Users\denis\OneDrive\Documentos\Hipotenusa\Hipotenusa\obj\Debug\Hipotenusa.vbproj.CoreCompileInputs.cache
+C:\Users\denis\OneDrive\Documentos\Hipotenusa\Hipotenusa\obj\Debug\Hipotenusa.exe
+C:\Users\denis\OneDrive\Documentos\Hipotenusa\Hipotenusa\obj\Debug\Hipotenusa.xml
+C:\Users\denis\OneDrive\Documentos\Hipotenusa\Hipotenusa\obj\Debug\Hipotenusa.pdb
