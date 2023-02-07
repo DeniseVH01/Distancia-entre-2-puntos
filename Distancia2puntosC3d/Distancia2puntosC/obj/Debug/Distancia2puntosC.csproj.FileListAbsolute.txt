@@ -1,0 +1,10 @@
+C:\Users\denis\OneDrive\Documentos\Distancia2puntosC\Distancia2puntosC\obj\Debug\Distancia2puntosC.csprojAssemblyReference.cache
+C:\Users\denis\OneDrive\Documentos\Distancia2puntosC\Distancia2puntosC\obj\Debug\Distancia2puntosC.Form1.resources
+C:\Users\denis\OneDrive\Documentos\Distancia2puntosC\Distancia2puntosC\obj\Debug\Distancia2puntosC.Properties.Resources.resources
+C:\Users\denis\OneDrive\Documentos\Distancia2puntosC\Distancia2puntosC\obj\Debug\Distancia2puntosC.csproj.GenerateResource.cache
+C:\Users\denis\OneDrive\Documentos\Distancia2puntosC\Distancia2puntosC\obj\Debug\Distancia2puntosC.csproj.CoreCompileInputs.cache
+C:\Users\denis\OneDrive\Documentos\Distancia2puntosC\Distancia2puntosC\bin\Debug\Distancia2puntosC.exe.config
+C:\Users\denis\OneDrive\Documentos\Distancia2puntosC\Distancia2puntosC\bin\Debug\Distancia2puntosC.exe
+C:\Users\denis\OneDrive\Documentos\Distancia2puntosC\Distancia2puntosC\bin\Debug\Distancia2puntosC.pdb
+C:\Users\denis\OneDrive\Documentos\Distancia2puntosC\Distancia2puntosC\obj\Debug\Distancia2puntosC.exe
+C:\Users\denis\OneDrive\Documentos\Distancia2puntosC\Distancia2puntosC\obj\Debug\Distancia2puntosC.pdb

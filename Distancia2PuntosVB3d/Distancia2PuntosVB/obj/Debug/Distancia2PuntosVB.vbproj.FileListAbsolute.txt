@@ -1,0 +1,12 @@
+C:\Users\denis\OneDrive\Documentos\Distancia2PuntosVB\Distancia2PuntosVB\bin\Debug\Distancia2PuntosVB.exe.config
+C:\Users\denis\OneDrive\Documentos\Distancia2PuntosVB\Distancia2PuntosVB\bin\Debug\Distancia2PuntosVB.exe
+C:\Users\denis\OneDrive\Documentos\Distancia2PuntosVB\Distancia2PuntosVB\bin\Debug\Distancia2PuntosVB.pdb
+C:\Users\denis\OneDrive\Documentos\Distancia2PuntosVB\Distancia2PuntosVB\bin\Debug\Distancia2PuntosVB.xml
+C:\Users\denis\OneDrive\Documentos\Distancia2PuntosVB\Distancia2PuntosVB\obj\Debug\Distancia2PuntosVB.vbprojAssemblyReference.cache
+C:\Users\denis\OneDrive\Documentos\Distancia2PuntosVB\Distancia2PuntosVB\obj\Debug\Distancia2PuntosVB.Form1.resources
+C:\Users\denis\OneDrive\Documentos\Distancia2PuntosVB\Distancia2PuntosVB\obj\Debug\Distancia2PuntosVB.Resources.resources
+C:\Users\denis\OneDrive\Documentos\Distancia2PuntosVB\Distancia2PuntosVB\obj\Debug\Distancia2PuntosVB.vbproj.GenerateResource.cache
+C:\Users\denis\OneDrive\Documentos\Distancia2PuntosVB\Distancia2PuntosVB\obj\Debug\Distancia2PuntosVB.vbproj.CoreCompileInputs.cache
+C:\Users\denis\OneDrive\Documentos\Distancia2PuntosVB\Distancia2PuntosVB\obj\Debug\Distancia2PuntosVB.exe
+C:\Users\denis\OneDrive\Documentos\Distancia2PuntosVB\Distancia2PuntosVB\obj\Debug\Distancia2PuntosVB.xml
+C:\Users\denis\OneDrive\Documentos\Distancia2PuntosVB\Distancia2PuntosVB\obj\Debug\Distancia2PuntosVB.pdb
